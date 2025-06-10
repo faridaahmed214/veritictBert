@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+
+# IDE-specific files (e.g., PyCharm, VS Code)
+.idea/
+.vscode/
+
+# Tarball and zip files (from deployment process)
+*.tar.gz
+*.zip
+
+# Optional: If you have test outputs or temporary files
+tests/__pycache__/
+output/

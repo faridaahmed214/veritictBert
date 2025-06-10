@@ -1,0 +1,2 @@
+models/final_bertCopy_model/tf_model.h5 filter=lfs diff=lfs merge=lfs -text
+models/* filter=lfs diff=lfs merge=lfs -text
